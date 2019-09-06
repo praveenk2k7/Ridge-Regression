@@ -39,5 +39,23 @@ On performing experiments with the house dataset available in scikit library, be
 
 ![Weights](https://user-images.githubusercontent.com/44360746/64412222-84652f00-d0c1-11e9-8c0e-5b27562fc3ce.png)
 
+**Regression Trace**
+
+![Trace](https://user-images.githubusercontent.com/44360746/64412352-c8583400-d0c1-11e9-9442-94af00faf363.png)
+
+‘Room’ should be the best indicator for house price by intuition. This is why the line in red does not quite shrink over iteration. On the contrary, ‘Highway Access’ (blue) decreases remarkably, which means the feature loses its importance as we seek more general models.
+
+**Comparision to OLS**
+
+![](https://user-images.githubusercontent.com/44360746/64412508-140add80-d0c2-11e9-8b7b-f763e97ee1b9.png)
+
+The green dotted line is from OLS on the graph above with the X-axis being drawn by increasing lambda values. The MSE values decreases in the beginning as the lambda value increases, which means the model prediction is improved (less error) to a certain point. In short, an OLS model with some bias is better at prediction than the pure OLS model, we call this modified OLS model as the ridge regression model.
+
+# Conclusion
+
+    OLS simply finds the best fit for given data
+    Features have different contributions to RSS
+    Ridge regression gives a bias to important features
+    MSE or R-square can be used to find the best lambda
 
 
