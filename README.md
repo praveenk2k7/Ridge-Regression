@@ -58,4 +58,11 @@ The green dotted line is from OLS on the graph above with the X-axis being drawn
     Ridge regression gives a bias to important features
     MSE or R-square can be used to find the best lambda
 
+**Additional
 
+Lasso Regression : The cost function for Lasso (least absolute shrinkage and selection operator) regression can be written as
+
+![image](https://user-images.githubusercontent.com/44360746/64412718-9a272400-d0c2-11e9-81b8-f9b5d98db410.png)
+
+
+This type of regularization (L1) can lead to zero coefficients i.e. some of the features are completely neglected for the evaluation of output. So Lasso regression not only helps in reducing over-fitting but it can help us in feature selection. Just like Ridge regression the regularization parameter (lambda) can be controlled.
