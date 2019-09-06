@@ -33,15 +33,11 @@ On performing experiments with the house dataset available in scikit library, be
 
 **Dataframe**
 
-x-special/nautilus-clipboard
-copy
-file:///home/praveen/Pictures/Screenshot%20from%202019-09-06%2016-09-04.png
+![Dataframe](file:///home/praveen/Pictures/Screenshot%20from%202019-09-06%2016-09-04.png)
 
 **Coefficients for different values of lambda**
 
-x-special/nautilus-clipboard
-copy
-file:///home/praveen/Pictures/Screenshot%20from%202019-09-06%2016-11-26.png
+![weights](file:///home/praveen/Pictures/Screenshot%20from%202019-09-06%2016-11-26.png)
 
 
 
