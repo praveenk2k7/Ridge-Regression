@@ -27,4 +27,21 @@ The term with lambda is often called ‘Penalty’ since it increases RSS. We it
 
 As we increase the lambda value, the weight decreases. It converges to zero but never becomes zero. It gives different importance to the weights but never drops the unimportant features.  
 
+# Results
+
+On performing experiments with the house dataset available in scikit library, below are the results.
+
+**Dataframe**
+
+x-special/nautilus-clipboard
+copy
+file:///home/praveen/Pictures/Screenshot%20from%202019-09-06%2016-09-04.png
+
+**Coefficients for different values of lambda**
+
+x-special/nautilus-clipboard
+copy
+file:///home/praveen/Pictures/Screenshot%20from%202019-09-06%2016-11-26.png
+
+
 
