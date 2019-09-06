@@ -58,7 +58,7 @@ The green dotted line is from OLS on the graph above with the X-axis being drawn
     Ridge regression gives a bias to important features
     MSE or R-square can be used to find the best lambda
 
-**Additional
+**Additional**
 
 Lasso Regression : The cost function for Lasso (least absolute shrinkage and selection operator) regression can be written as
 
