@@ -33,11 +33,11 @@ On performing experiments with the house dataset available in scikit library, be
 
 **Dataframe**
 
-![Dataframe](file:///home/praveen/Pictures/Screenshot%20from%202019-09-06%2016-09-04.png)
+![Dataframe](https://user-images.githubusercontent.com/44360746/64412267-98109580-d0c1-11e9-9eb9-9b29ba406b90.png)
 
 **Coefficients for different values of lambda**
 
-![weights](file:///home/praveen/Pictures/Screenshot%20from%202019-09-06%2016-11-26.png)
+![Weights](https://user-images.githubusercontent.com/44360746/64412222-84652f00-d0c1-11e9-8c0e-5b27562fc3ce.png)
 
 
 
